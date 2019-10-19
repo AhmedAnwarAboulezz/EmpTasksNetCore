@@ -12,6 +12,10 @@ namespace HrTasks.Services.AutoMapper
         public HrTasksMapper(){
 
             CreateMap<EmployeeDto, Employee>().ReverseMap();
+            CreateMap<DepartmentDto, Department>().ReverseMap();
+            CreateMap<EmployeeTaskDto, EmployeeTask>().ReverseMap();
+
+
         }
     }
 }

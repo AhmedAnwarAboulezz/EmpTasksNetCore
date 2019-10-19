@@ -22,6 +22,21 @@ namespace HrTasks.ModelAccess
                 return new EmployeeRepository(_context);
             }
         }
+        public DepartmentRepository DepartmentRepository
+        {
+            get
+            {
+                return new DepartmentRepository(_context);
+            }
+        }
+
+        public EmployeeTaskRepository EmployeeTaskRepository
+        {
+            get
+            {
+                return new EmployeeTaskRepository(_context);
+            }
+        }
 
         public void Dispose()
         {
