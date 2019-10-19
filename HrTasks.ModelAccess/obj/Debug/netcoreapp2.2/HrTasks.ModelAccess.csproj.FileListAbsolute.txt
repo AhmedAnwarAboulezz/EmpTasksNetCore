@@ -1,0 +1,14 @@
+C:\Users\mubarak\Desktop\Erp\ERPTask\HrTasks.ModelAccess\bin\Debug\netcoreapp2.2\HrTasks.ModelAccess.deps.json
+C:\Users\mubarak\Desktop\Erp\ERPTask\HrTasks.ModelAccess\bin\Debug\netcoreapp2.2\HrTasks.ModelAccess.dll
+C:\Users\mubarak\Desktop\Erp\ERPTask\HrTasks.ModelAccess\bin\Debug\netcoreapp2.2\HrTasks.ModelAccess.pdb
+C:\Users\mubarak\Desktop\Erp\ERPTask\HrTasks.ModelAccess\bin\Debug\netcoreapp2.2\HrTasks.Model.dll
+C:\Users\mubarak\Desktop\Erp\ERPTask\HrTasks.ModelAccess\bin\Debug\netcoreapp2.2\HrTasks.Model.pdb
+C:\Users\mubarak\Desktop\Erp\ERPTask\HrTasks.ModelAccess\obj\Debug\netcoreapp2.2\HrTasks.ModelAccess.csprojAssemblyReference.cache
+C:\Users\mubarak\Desktop\Erp\ERPTask\HrTasks.ModelAccess\obj\Debug\netcoreapp2.2\HrTasks.ModelAccess.csproj.CoreCompileInputs.cache
+C:\Users\mubarak\Desktop\Erp\ERPTask\HrTasks.ModelAccess\obj\Debug\netcoreapp2.2\HrTasks.ModelAccess.AssemblyInfoInputs.cache
+C:\Users\mubarak\Desktop\Erp\ERPTask\HrTasks.ModelAccess\obj\Debug\netcoreapp2.2\HrTasks.ModelAccess.AssemblyInfo.cs
+C:\Users\mubarak\Desktop\Erp\ERPTask\HrTasks.ModelAccess\obj\Debug\netcoreapp2.2\HrTasks.ModelAccess.csproj.CopyComplete
+C:\Users\mubarak\Desktop\Erp\ERPTask\HrTasks.ModelAccess\obj\Debug\netcoreapp2.2\HrTasks.ModelAccess.dll
+C:\Users\mubarak\Desktop\Erp\ERPTask\HrTasks.ModelAccess\obj\Debug\netcoreapp2.2\HrTasks.ModelAccess.pdb
+C:\Users\mubarak\Desktop\Erp\ERPTask\HrTasks.ModelAccess\bin\Debug\netcoreapp2.2\Common.dll
+C:\Users\mubarak\Desktop\Erp\ERPTask\HrTasks.ModelAccess\bin\Debug\netcoreapp2.2\Common.pdb

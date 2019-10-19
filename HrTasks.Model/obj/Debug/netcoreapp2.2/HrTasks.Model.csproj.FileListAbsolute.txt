@@ -1,0 +1,11 @@
+C:\Users\mubarak\Desktop\Erp\ERPTask\HrTasks.Model\bin\Debug\netcoreapp2.2\HrTasks.Model.deps.json
+C:\Users\mubarak\Desktop\Erp\ERPTask\HrTasks.Model\bin\Debug\netcoreapp2.2\HrTasks.Model.dll
+C:\Users\mubarak\Desktop\Erp\ERPTask\HrTasks.Model\obj\Debug\netcoreapp2.2\HrTasks.Model.csproj.CoreCompileInputs.cache
+C:\Users\mubarak\Desktop\Erp\ERPTask\HrTasks.Model\obj\Debug\netcoreapp2.2\HrTasks.Model.AssemblyInfoInputs.cache
+C:\Users\mubarak\Desktop\Erp\ERPTask\HrTasks.Model\obj\Debug\netcoreapp2.2\HrTasks.Model.AssemblyInfo.cs
+C:\Users\mubarak\Desktop\Erp\ERPTask\HrTasks.Model\bin\Debug\netcoreapp2.2\HrTasks.Model.runtimeconfig.json
+C:\Users\mubarak\Desktop\Erp\ERPTask\HrTasks.Model\bin\Debug\netcoreapp2.2\HrTasks.Model.runtimeconfig.dev.json
+C:\Users\mubarak\Desktop\Erp\ERPTask\HrTasks.Model\bin\Debug\netcoreapp2.2\HrTasks.Model.pdb
+C:\Users\mubarak\Desktop\Erp\ERPTask\HrTasks.Model\obj\Debug\netcoreapp2.2\HrTasks.Model.dll
+C:\Users\mubarak\Desktop\Erp\ERPTask\HrTasks.Model\obj\Debug\netcoreapp2.2\HrTasks.Model.pdb
+C:\Users\mubarak\Desktop\Erp\ERPTask\HrTasks.Model\obj\Debug\netcoreapp2.2\HrTasks.Model.csprojAssemblyReference.cache
