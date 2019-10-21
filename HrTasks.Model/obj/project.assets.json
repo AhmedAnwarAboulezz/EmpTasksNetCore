@@ -3626,11 +3626,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mubarak\\Desktop\\Erp\\ERPTask\\HrTasks.Model\\HrTasks.Model.csproj",
+      "projectUniqueName": "C:\\Users\\mubarak\\Desktop\\ERPTask\\ERPTask\\HrTasks.Model\\HrTasks.Model.csproj",
       "projectName": "HrTasks.Model",
-      "projectPath": "C:\\Users\\mubarak\\Desktop\\Erp\\ERPTask\\HrTasks.Model\\HrTasks.Model.csproj",
+      "projectPath": "C:\\Users\\mubarak\\Desktop\\ERPTask\\ERPTask\\HrTasks.Model\\HrTasks.Model.csproj",
       "packagesPath": "C:\\Users\\mubarak\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mubarak\\Desktop\\Erp\\ERPTask\\HrTasks.Model\\obj\\",
+      "outputPath": "C:\\Users\\mubarak\\Desktop\\ERPTask\\ERPTask\\HrTasks.Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"

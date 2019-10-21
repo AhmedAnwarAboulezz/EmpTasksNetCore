@@ -6,7 +6,7 @@ using System.Text;
 
 namespace HrTasks.ModelAccess
 {
-  public  class UnitofWork
+  public  class UnitofWork:IUnitofWork
     {
         private readonly HrTasksContext _context;
 

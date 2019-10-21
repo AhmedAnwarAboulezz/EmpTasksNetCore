@@ -8,6 +8,8 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace HrTasks.WebAPI.Controllers
 {
+    [Route("api/[controller]/[action]")]
+    [ApiController]
     public class DepartmentsController : ControllerBase
     {
         private IDepartmentService _DepartmentService;

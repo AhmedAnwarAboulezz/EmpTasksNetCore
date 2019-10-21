@@ -3194,11 +3194,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mubarak\\Desktop\\Erp\\ERPTask\\Common\\Common.csproj",
+      "projectUniqueName": "C:\\Users\\mubarak\\Desktop\\ERPTask\\ERPTask\\Common\\Common.csproj",
       "projectName": "Common",
-      "projectPath": "C:\\Users\\mubarak\\Desktop\\Erp\\ERPTask\\Common\\Common.csproj",
+      "projectPath": "C:\\Users\\mubarak\\Desktop\\ERPTask\\ERPTask\\Common\\Common.csproj",
       "packagesPath": "C:\\Users\\mubarak\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mubarak\\Desktop\\Erp\\ERPTask\\Common\\obj\\",
+      "outputPath": "C:\\Users\\mubarak\\Desktop\\ERPTask\\ERPTask\\Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"

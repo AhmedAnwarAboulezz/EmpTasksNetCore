@@ -11,6 +11,7 @@ using HrTasks.Services.Services;
 using System.Linq;
 using System.Reflection;
 using NetCore.AutoRegisterDi;
+using HrTasks.ModelAccess;
 
 namespace HrTasks.Services.Extensions
 {
@@ -33,8 +34,7 @@ namespace HrTasks.Services.Extensions
         }
         private static void ServicesConfig(this IServiceCollection services)
         {
-            //services.AddScoped<IUnitofWork, UnitofWork>();
-            
+            services.AddScoped<IUnitofWork, UnitofWork>();
             var assemblyToScan = Assembly.GetAssembly(typeof(EmployeeService));
             services.RegisterAssemblyPublicNonGenericClasses(assemblyToScan)
               .Where(c => c.Name.EndsWith("Service"))

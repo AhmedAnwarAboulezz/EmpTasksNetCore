@@ -8,6 +8,8 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace HrTasks.WebAPI.Controllers
 {
+    [Route("api/[controller]/[action]")]
+    [ApiController]
     public class EmployeeTasksController : ControllerBase
     {
         private IEmployeeTaskService _EmployeeTaskService;
@@ -50,6 +52,13 @@ namespace HrTasks.WebAPI.Controllers
             _EmployeeTaskService.Delete(id);
 
             return Ok();
+        }
+
+        [HttpGet("{empId}")]
+        public IActionResult GetAllTasksByEmpId(int empId)
+        {
+            var list = _EmployeeTaskService.GetAll().Where(a => a.EmployeeId == empId).ToList();
+            return Ok(list);
         }
     }
 }

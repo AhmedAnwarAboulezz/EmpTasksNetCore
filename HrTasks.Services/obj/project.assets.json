@@ -3968,11 +3968,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mubarak\\Desktop\\Erp\\ERPTask\\HrTasks.Services\\HrTasks.Services.csproj",
+      "projectUniqueName": "C:\\Users\\mubarak\\Desktop\\ERPTask\\ERPTask\\HrTasks.Services\\HrTasks.Services.csproj",
       "projectName": "HrTasks.Services",
-      "projectPath": "C:\\Users\\mubarak\\Desktop\\Erp\\ERPTask\\HrTasks.Services\\HrTasks.Services.csproj",
+      "projectPath": "C:\\Users\\mubarak\\Desktop\\ERPTask\\ERPTask\\HrTasks.Services\\HrTasks.Services.csproj",
       "packagesPath": "C:\\Users\\mubarak\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mubarak\\Desktop\\Erp\\ERPTask\\HrTasks.Services\\obj\\",
+      "outputPath": "C:\\Users\\mubarak\\Desktop\\ERPTask\\ERPTask\\HrTasks.Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3991,11 +3991,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\mubarak\\Desktop\\Erp\\ERPTask\\Common\\Common.csproj": {
-              "projectPath": "C:\\Users\\mubarak\\Desktop\\Erp\\ERPTask\\Common\\Common.csproj"
+            "C:\\Users\\mubarak\\Desktop\\ERPTask\\ERPTask\\Common\\Common.csproj": {
+              "projectPath": "C:\\Users\\mubarak\\Desktop\\ERPTask\\ERPTask\\Common\\Common.csproj"
             },
-            "C:\\Users\\mubarak\\Desktop\\Erp\\ERPTask\\HrTasks.ModelAccess\\HrTasks.ModelAccess.csproj": {
-              "projectPath": "C:\\Users\\mubarak\\Desktop\\Erp\\ERPTask\\HrTasks.ModelAccess\\HrTasks.ModelAccess.csproj"
+            "C:\\Users\\mubarak\\Desktop\\ERPTask\\ERPTask\\HrTasks.ModelAccess\\HrTasks.ModelAccess.csproj": {
+              "projectPath": "C:\\Users\\mubarak\\Desktop\\ERPTask\\ERPTask\\HrTasks.ModelAccess\\HrTasks.ModelAccess.csproj"
             }
           }
         }
