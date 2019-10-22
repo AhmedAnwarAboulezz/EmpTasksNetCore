@@ -4,6 +4,7 @@ using HrTasks.ModelAccess;
 using HrTasks.Services.Dto;
 using HrTasks.Services.Interfaces;
 using HrTasks.Services.Services.Base;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -17,7 +18,7 @@ namespace HrTasks.Services.Services
 
         public IEnumerable<EmployeeTaskDto> GetAll()
         {
-            var list = _unitofWork.EmployeeTaskRepository.GetAll();
+            var list = _unitofWork.EmployeeTaskRepository.GetAll(source => source.Include(u => u.Employees));
             return _mapper.Map<IEnumerable<EmployeeTaskDto>>(list);
         }
         public EmployeeTaskDto Get(int id)

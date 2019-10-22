@@ -9,7 +9,5 @@ namespace HrTasks.Services.Dto
         public int? Id { get; set; }
         public string DepartmentEn { get; set; }
         public string DepartmentAr { get; set; }
-        public string EmployeeNameAr { get; set; }
-        public string EmployeeNameEn { get; set; }
     }
 }
